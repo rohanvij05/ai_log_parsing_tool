@@ -142,6 +142,15 @@ All The Modules/Libraries Used in the Project can be installed using [requiremen
 
 ----------------------------
 
+## Contirbutors
+- Rohan Vijay
+- Yashas J Kumar
+- Karthik R
+- Dhanushree B
+- Khushi Kashinath
+
+----------------------------
+
 ## Report
 
 The complete details of the Project Implementation is provided in [Project Report](Report/project-report.pdf)
