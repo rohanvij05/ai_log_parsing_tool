@@ -75,7 +75,7 @@ All The Modules/Libraries Used in the Project can be installed using [requiremen
 - Clone the Current Git Repository.
   
 ```bash
-  git clone https://github.com/k-arthik-r/ai_powered_log_parsing_tool.git
+  git clone https://github.com/rohanvij05/ai_log_parsing_tool.git
 ```
 
 - Navigate to the root Directory of the project and Create a python virtual environment.
